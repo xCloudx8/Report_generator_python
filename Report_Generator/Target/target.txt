@@ -1,0 +1,5 @@
+Clinical interpretation was performed on variants called from Whole Exome Sequencing data of a trio. The diagnostic evidence provided by the ordering physician is hypocalcemia, hypomagnesemia, hypermagnesuria, hypoparathyroidism and hypercalciuria. The proband has seven years old and he has an older brother healthy. His paternal grandfather had presented episodes of tetanus.
+Both the parents result healthy for this pathology and therefore all the mutation found to be rare recessive, compound heterozygous, de novo and X-linked were selected and evaluated for their significance.
+Clinically significant variants were evaluated and discussed within this report. The report also includes all the others rare variants filtered by inheritance pattern.
+
+All variants that were classified can be found in the CGF167.xlsx file.

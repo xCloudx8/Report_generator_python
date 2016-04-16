@@ -1,0 +1,3 @@
+The interpretation was performed on variants called from Whole Genome Sequencing data of an healthy adult individual.
+As the sample analyzed does not have any genetic disease evidence, this interpretation is aimed to identify the predisposition of some known pathological conditions and the possibility to be carrier of some genetic diseases that can be transmitted to the progeny.
+Only rare variants considered clinically significant are discussed within this report, however all variants that were interpreted can be found in the VR17.xlsx file
