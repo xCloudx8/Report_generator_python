@@ -23,7 +23,7 @@ Folder "GeneList": Contains the list of genes provided by the physician
 Folder "Genes": Contains the description of all Gene , eventually some description is missing add it manually calling the file in upper case the gene name followed by .txt
 
 --------------------------------------------------------------------------------
-Folder "Logo": Contains the PersonalGenomics logo, if you want to change it just overwrite with a new one with the same extension
+Folder "Logo": Contains thepe logo, if you want to change it just overwrite with a new one with the same extension
 
 --------------------------------------------------------------------------------
 Folder "Modules": Contains all the modules used in the software, change them only if necessary DO NOT RENAME THEM!
